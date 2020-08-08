@@ -1,0 +1,7 @@
+类型：int  类型名称：int 类型种类：int
+类型：float64  类型名称：float64 类型种类：float64
+类型：bool  类型名称：bool 类型种类：bool
+类型：string  类型名称：string 类型种类：string
+类型：main.myInt  类型名称：myInt 类型种类：int
+类型：main.Person  类型名称：Person 类型种类：struct
+类型：*int  类型名称： 类型种类：ptr
