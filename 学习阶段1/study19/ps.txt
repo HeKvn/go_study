@@ -5,3 +5,9 @@
     init
     main
 其中，init比main先执行，然后init函数可以有多个，而main函数只能有一个
+
+生成go mod命令：
+    进入项目文件夹
+    敲入
+    go mod init x
+    x是项目文件夹名称
