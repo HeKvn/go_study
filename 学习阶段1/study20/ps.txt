@@ -1,0 +1,5 @@
+go get 包名称 (全局)
+
+go mod download (全局)
+
+go mod vendor 将依赖复制到当前项目的vendor下（本项目）
